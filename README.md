@@ -29,10 +29,6 @@
 
 <br/>
 <div align="center">
-  <h4 align="center">📚 Educations 📚</h4> 
-  <p align="center">
-  <div align="center">Majored in Computer Science </div>
-  <div align="center"> 삼성 청년 SW 아카데미 7기 </div>
  </p>
  
    <h3 align="center">My Projects </h3> 
