@@ -5,7 +5,7 @@
         <img src="http://img.shields.io/badge/-blog-black?style=flat-square&logo=github&link=https://anji0.tistory.com"/>
     </a>
    <h3 align="center"> </h3>
-   <div align="center"><b> Frontend Developer </b></div>
+<!--    <div align="center"><b> Frontend Developer </b></div> -->
 
   </p>
 
